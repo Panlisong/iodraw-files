@@ -28,9 +28,6 @@
         <mxCell id="SKk_uKUPfdjNMhq7gg-X-6" value="remote dsq" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="440" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SKk_uKUPfdjNMhq7gg-X-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="560" width="80" height="200" as="geometry" />
-        </mxCell>
         <mxCell id="SKk_uKUPfdjNMhq7gg-X-9" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="306.25" width="80" height="310" as="geometry" />
         </mxCell>
