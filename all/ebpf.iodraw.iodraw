@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Linux x86_64; rv:137.0) Gecko/20100101 Firefox/137.0" version="24.7.17">
   <diagram name="第 1 页" id="f-yJjaA5q_l2HXbpaTsw">
-    <mxGraphModel dx="1050" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1877" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -188,8 +188,17 @@
         <mxCell id="Ubx9POUpiun1FZJ0DV6C-10" value="SCX_OPSS_DISPATCHING" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="260" y="1090" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ubx9POUpiun1FZJ0DV6C-11" value="SCX_OPSS_QUEUEING" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="280" y="860" width="180" height="30" as="geometry" />
+        <mxCell id="Ubx9POUpiun1FZJ0DV6C-11" value="SCX_OPSS_NONE" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="965" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ubx9POUpiun1FZJ0DV6C-12" value="SCX_OPSS_QUEUED" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="560" y="965" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ubx9POUpiun1FZJ0DV6C-13" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="1030" as="sourcePoint" />
+            <mxPoint x="490" y="980" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
