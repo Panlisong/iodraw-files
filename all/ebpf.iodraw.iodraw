@@ -182,11 +182,14 @@
         <mxCell id="Ubx9POUpiun1FZJ0DV6C-3" value="ebpf scheduler" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="440" y="950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ubx9POUpiun1FZJ0DV6C-8" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1100" width="60" height="30" as="geometry" />
+        <mxCell id="Ubx9POUpiun1FZJ0DV6C-9" value="SCX_OPSS_QUEUEING" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="270" y="850" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ubx9POUpiun1FZJ0DV6C-9" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="820" width="60" height="30" as="geometry" />
+        <mxCell id="Ubx9POUpiun1FZJ0DV6C-10" value="SCX_OPSS_DISPATCHING" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1090" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ubx9POUpiun1FZJ0DV6C-11" value="SCX_OPSS_QUEUEING" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="280" y="860" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
