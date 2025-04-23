@@ -74,10 +74,10 @@
           <mxGeometry x="520" y="570" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YQggyI30SdpxPLPRZdwS-31" value="yield" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="174" y="630" width="240" height="30" as="geometry" />
+          <mxGeometry x="174" y="665" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YQggyI30SdpxPLPRZdwS-32" value="yield_task" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="520" y="630" width="240" height="30" as="geometry" />
+          <mxGeometry x="480" y="620" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YQggyI30SdpxPLPRZdwS-33" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="420" y="420" width="20" height="120" as="geometry" />
@@ -86,7 +86,10 @@
           <mxGeometry x="480" y="510" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YQggyI30SdpxPLPRZdwS-35" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="430" y="620" width="20" height="120" as="geometry" />
+          <mxGeometry x="414" y="620" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YQggyI30SdpxPLPRZdwS-36" value="yield_to_task_scx" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="480" y="710" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
