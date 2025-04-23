@@ -91,6 +91,15 @@
         <mxCell id="YQggyI30SdpxPLPRZdwS-36" value="yield_to_task_scx" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="480" y="710" width="240" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="YQggyI30SdpxPLPRZdwS-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="YQggyI30SdpxPLPRZdwS-38" target="YQggyI30SdpxPLPRZdwS-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YQggyI30SdpxPLPRZdwS-38" value="quiescent" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="184" y="580" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YQggyI30SdpxPLPRZdwS-39" value="dequeue_task_scx" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="490" y="580" width="240" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
