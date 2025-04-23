@@ -22,17 +22,23 @@
         <mxCell id="YQggyI30SdpxPLPRZdwS-5" value="select_task_rq_scx" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="520" y="70" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YQggyI30SdpxPLPRZdwS-7" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="250" width="160" height="10" as="geometry" />
-        </mxCell>
         <mxCell id="YQggyI30SdpxPLPRZdwS-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="YQggyI30SdpxPLPRZdwS-10" target="YQggyI30SdpxPLPRZdwS-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YQggyI30SdpxPLPRZdwS-10" value="select_cpu" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="184" y="80" width="240" height="30" as="geometry" />
+        <mxCell id="YQggyI30SdpxPLPRZdwS-10" value="enqueue" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="174" y="130" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YQggyI30SdpxPLPRZdwS-11" value="select_task_rq_scx" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="530" y="80" width="240" height="30" as="geometry" />
+        <mxCell id="YQggyI30SdpxPLPRZdwS-11" value="do_enqueue_task" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="520" y="130" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YQggyI30SdpxPLPRZdwS-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="YQggyI30SdpxPLPRZdwS-13" target="YQggyI30SdpxPLPRZdwS-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YQggyI30SdpxPLPRZdwS-13" value="enqueue" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="174" y="190" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YQggyI30SdpxPLPRZdwS-14" value="do_enqueue_task" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="520" y="190" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
