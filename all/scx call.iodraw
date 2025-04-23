@@ -58,6 +58,36 @@
         <mxCell id="YQggyI30SdpxPLPRZdwS-23" value="set_next_task_scx" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="520" y="370" width="240" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="YQggyI30SdpxPLPRZdwS-25" value="stopping" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="174" y="465" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YQggyI30SdpxPLPRZdwS-26" value="dequeue_task_scx" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="480" y="420" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YQggyI30SdpxPLPRZdwS-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="YQggyI30SdpxPLPRZdwS-28" target="YQggyI30SdpxPLPRZdwS-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YQggyI30SdpxPLPRZdwS-28" value="runnable" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="174" y="570" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YQggyI30SdpxPLPRZdwS-29" value="enqueue_task_scx" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="520" y="570" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YQggyI30SdpxPLPRZdwS-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="YQggyI30SdpxPLPRZdwS-31" target="YQggyI30SdpxPLPRZdwS-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YQggyI30SdpxPLPRZdwS-31" value="running" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="174" y="630" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YQggyI30SdpxPLPRZdwS-32" value="set_next_task_scx" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="520" y="630" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YQggyI30SdpxPLPRZdwS-33" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="420" y="420" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YQggyI30SdpxPLPRZdwS-34" value="put_prev_task_scx" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="480" y="510" width="240" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
